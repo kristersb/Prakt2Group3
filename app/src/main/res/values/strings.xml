@@ -1,6 +1,9 @@
 <resources>
     <string name="app_name">Dialog</string>
     <string name="title_activity_main2">Dialog</string>
+    <string name="activity_1_name">1-st Activity</string>
+    <string name="activity_2_name">2-nd Activity</string>
+    <string name="back_btn_name">Back</string>
     <array name="students">
         <item>Uldis Mārtiņš Kuzma</item>
         <item>Mikus Lērme</item>
