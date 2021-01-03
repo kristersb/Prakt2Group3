@@ -1,4 +1,9 @@
 <resources>
-    <string name="app_name">Prakt2</string>
-
+    <string name="app_name">Dialog</string>
+    <string name="title_activity_main2">Dialog</string>
+    <array name="students">
+        <item>Uldis Mārtiņš Kuzma</item>
+        <item>Mikus Lērme</item>
+        <item>Kristers Bērziņš</item>
+    </array>
 </resources>
